@@ -21,7 +21,7 @@ body {
 	background: #fff;
 }
 .content-left{
-	padding:15px;
+	padding:30px 15px;
 	background: #0099cc;
 }
 .content-left .info .title{
@@ -440,11 +440,6 @@ body {
 	}
 	.content-right .prize ul li h3{
 	margin-left:-72px;
-	}
-}
-@media(min-width:900px){
-	.content-left .skills-leve ul li{
-	margin:5px;
 	}
 }
 @media(min-width:992px){
