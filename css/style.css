@@ -19,10 +19,6 @@ body {
 	box-shadow:0 0 15px #c0c0c0;
 	border-radius:10px;
 	background: #fff;
-	position: relative;
-	display: flex;
-	flex-direction:row;
-	flex-wrap:wrap;
 }
 .content-left{
 	padding:15px;
